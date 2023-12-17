@@ -24,7 +24,8 @@ Aid Investor Decision-Making: Assist investors in making well-informed decisions
 ## Research Findings
 The research findings indicate that the Decision Tree algorithm achieved slightly higher accuracy (76%) compared to K-Nearest Neighbors (KNN) with an accuracy of 73%. This implies that the Decision Tree algorithm is more effective in classifying IDX shares into listing boards based on the identified factors.
 
-## Disclaimer: The research findings are based on the data available at the time of the study which is early 2023 and may be subject to market changes. Investors are advised to conduct further research and seek professional advice before making investment decisions.
+## Disclaimer: 
+The research findings are based on the data available at the time of the study which is early 2023 and may be subject to market changes. Investors are advised to conduct further research and seek professional advice before making investment decisions.
 
 ## Tools Utilized:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
